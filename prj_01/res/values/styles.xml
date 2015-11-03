@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="number">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">#ff272b36</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="blue">
+        <item name="android:background">#ff0074ae</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="orange">
+        <item name="android:background">#FF8C00</item>
+    </style>
+</resources>
